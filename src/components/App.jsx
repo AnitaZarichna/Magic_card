@@ -1,16 +1,23 @@
+import { Header } from "./Header/Header";
+import { MagicBall } from "./MainPage/MagicBall";
+import { Title } from "./MainPage/Title";
+
 export const App = () => {
   return (
     <div
       style={{
         height: '100vh',
-        display: 'flex',
+        display: 'blok',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        color: '#010101',
+        background: 'radial-gradient(circle, rgba(63,195,251,0.8757878151260504) 0%, rgba(203,203,214,1) 100%)'
       }}
     >
-      React homework template
+      <Header/>
+      <Title/>
+      <MagicBall/>
+
     </div>
   );
 };
