@@ -17,7 +17,6 @@ margin-right: auto;
 
 export const Logo = styled.img `
 display: block;
-
 `
 
 export const LogoName = styled.span`

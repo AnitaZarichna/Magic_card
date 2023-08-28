@@ -21,7 +21,7 @@ export function Header () {
     </LogoSection>
     <ThemeSection onClick= {toggleTheme}>
         {theme === 'light' ? (<IoMoonOutline color = '#02a2f9' />) : (<IoMoonSharp color = '#b002ba'/>) }
-      <LogoName>{theme} Theme</LogoName>
+      <NameTheme>{theme} Theme</NameTheme>
     </ThemeSection>
 </HeaderBlock>
     )
