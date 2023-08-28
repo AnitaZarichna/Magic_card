@@ -12,4 +12,5 @@ opacity: 40%;
 -webkit-box-shadow: -23px 25px 59px 6px rgba(0,0,0,0.71);
 -moz-box-shadow: -23px 25px 59px 6px rgba(0,0,0,0.71);
 box-shadow: -23px 25px 59px 6px rgba(0,0,0,0.71);
+cursor: pointer;
 `
