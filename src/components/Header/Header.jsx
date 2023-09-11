@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+
 import { HeaderBlock , Logo, LogoSection, LogoName } from './Header.styled';
 import { ThemeSection , NameTheme} from './ThemeSwicher.styled';
 import logo from "../../images/logo256.png"
