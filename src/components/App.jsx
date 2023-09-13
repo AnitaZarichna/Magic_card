@@ -1,6 +1,6 @@
-import { Header } from "./Header/Header";
-import { MagicBall } from "./MainPage/MagicBall.jsx";
-import { Title } from "./MainPage/Title";
+import { Header } from './Header/Header';
+import  {MagicBall}  from './MainPage/MagicBall';
+import { Title } from './MainPage/Title';
 
 
 
