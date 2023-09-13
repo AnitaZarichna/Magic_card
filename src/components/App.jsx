@@ -1,5 +1,5 @@
 import { Header } from './Header/Header';
-import  {MagicBall}  from './MainPage/MagicBall';
+import  { MagicBall }  from '../components/MainPage/MagicBall';
 import { Title } from './MainPage/Title';
 
 
