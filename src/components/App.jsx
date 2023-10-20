@@ -1,7 +1,6 @@
 import { Header } from './Header/Header';
-import  { MagicBall }  from '../components/MainPage/MagicBall';
+import  { MagicBall }  from './MainPage/magicBall';
 import { Title } from './MainPage/Title';
-
 
 
 

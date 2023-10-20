@@ -8,7 +8,10 @@ margin: auto;
 -webkit-border-radius: 0px 0px 5px 5px;
 border: 0px solid #000000;
 box-shadow: 0px 0px 18px 0px rgba(0,0,0,0.09);
+
 `
+
+
 export const LogoSection = styled.div`
 display: flex;
 padding: 10px;
